@@ -1,0 +1,53 @@
+{
+  "superplan": {
+    "s0": {
+      "title": "Cash",
+      "descriptions": "Your aim is to achieve competitive cash based returns before fees and taxes by investing in a wholesale deposit with an Australian bank.",
+      "growth_assets": "0",
+      "defensive_assets": "100",
+      "relative_risk": "Low"
+    },
+    "s1": {
+      "title": "Conservative",
+      "descriptions": "Your aim is for returns primarily from income as well as some capital growth over the short to medium term. Investments are mainly in defensive assets with some exposure to growth assets.",
+      "growth_assets": "25",
+      "defensive_assets": "75",
+      "relative_risk": "Low"
+    },
+    "s2": {
+      "title": "Cautious",
+      "descriptions": "Your aim is for returns primarily from income as well as some capital growth over the short to medium term. Investments are mainly in defensive assets with some exposure to a diversified range of growth assets.",
+      "growth_assets": "40",
+      "defensive_assets": "60",
+      "relative_risk": "Low"
+    },
+    "s3": {
+      "title": "Moderately Conservative",
+      "descriptions": "Your aim is for moderate returns from a balance of income and capital growth over the medium to long term. Investments are a diversified mix of growth and defensive assets.",
+      "growth_assets": "55",
+      "defensive_assets": "45",
+      "relative_risk": "Low-Medium"
+    },
+    "s4": {
+      "title": "Balanced",
+      "descriptions": "Your aim is for moderate to higher returns primarily from capital growth with some income over the long term. Investments are across all asset types, with higher exposure to growth assets.",
+      "growth_assets": "70",
+      "defensive_assets": "30",
+      "relative_risk": "Medium"
+    },
+    "s5": {
+      "title": "Moderately Aggresive",
+      "descriptions": "Your main objective is to accumulate assets by targeting capital growth over the medium to long-term. You are prepared to accept higher volatility and moderate risks to achieve these returns.",
+      "growth_assets": "85",
+      "defensive_assets": "15",
+      "relative_risk": "Medium-high"
+    },
+    "s6": {
+      "title": "Aggresive",
+      "descriptions": "Your main objective is to achieve high long-term growth. Capital stability is not a concern as you are prepared to accept high volatility to pursue potentially greater long-term returns. Investment choices are diverse but carry with them a higher level of risk.",
+      "growth_assets": "100",
+      "defensive_assets": "0",
+      "relative_risk": "High"
+    }
+  }
+}
